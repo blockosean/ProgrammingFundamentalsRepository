@@ -1,0 +1,5 @@
+﻿  Circle.cpp
+C:\Users\F5067682\Source\CirclesWithClasses\CirclesWithClasses\CirclesWithClasses\Circles\Circles\Circle.cpp(19,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\F5067682\Source\CirclesWithClasses\CirclesWithClasses\CirclesWithClasses\Circles\Circles\Circle.cpp(27,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\F5067682\Source\CirclesWithClasses\CirclesWithClasses\CirclesWithClasses\Circles\Circles\Circle.cpp(40,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Circles.vcxproj -> C:\Users\F5067682\Source\CirclesWithClasses\CirclesWithClasses\CirclesWithClasses\Circles\x64\Debug\Circles.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\F5067682\Source\MazeWithEditor\MazeStart\Maze\main.cpp(432,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\F5067682\Source\MazeWithEditor\MazeStart\Maze\main.cpp(426,1): warning C4715: 'CanMoveThere': not all control paths return a value
+  Maze.vcxproj -> C:\Users\F5067682\Source\MazeWithEditor\MazeStart\x64\Debug\Maze.exe

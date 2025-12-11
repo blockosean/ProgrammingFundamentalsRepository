@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\F5067682\\Source\\CirclesWithClasses\\CirclesWithClasses\\CirclesWithClasses\\Circles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{249A4955-72F3-4B7B-B7E6-49F43B8871FA}|Circles\\Circles.vcxproj|C:\\Users\\F5067682\\Source\\CirclesWithClasses\\CirclesWithClasses\\CirclesWithClasses\\Circles\\Circles\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{249A4955-72F3-4B7B-B7E6-49F43B8871FA}|Circles\\Circles.vcxproj|solutionrelative:Circles\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{249A4955-72F3-4B7B-B7E6-49F43B8871FA}|Circles\\Circles.vcxproj|C:\\Users\\F5067682\\Source\\CirclesWithClasses\\CirclesWithClasses\\CirclesWithClasses\\Circles\\Circles\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{249A4955-72F3-4B7B-B7E6-49F43B8871FA}|Circles\\Circles.vcxproj|solutionrelative:Circles\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{249A4955-72F3-4B7B-B7E6-49F43B8871FA}|Circles\\Circles.vcxproj|C:\\Users\\F5067682\\Source\\CirclesWithClasses\\CirclesWithClasses\\CirclesWithClasses\\Circles\\Circles\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{249A4955-72F3-4B7B-B7E6-49F43B8871FA}|Circles\\Circles.vcxproj|solutionrelative:Circles\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{249A4955-72F3-4B7B-B7E6-49F43B8871FA}|Circles\\Circles.vcxproj|C:\\Users\\F5067682\\Source\\CirclesWithClasses\\CirclesWithClasses\\CirclesWithClasses\\Circles\\Circles\\framework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{249A4955-72F3-4B7B-B7E6-49F43B8871FA}|Circles\\Circles.vcxproj|solutionrelative:Circles\\framework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "framework.cpp",
+              "DocumentMoniker": "C:\\Users\\F5067682\\Source\\CirclesWithClasses\\CirclesWithClasses\\CirclesWithClasses\\Circles\\Circles\\framework.cpp",
+              "RelativeDocumentMoniker": "Circles\\framework.cpp",
+              "ToolTip": "C:\\Users\\F5067682\\Source\\CirclesWithClasses\\CirclesWithClasses\\CirclesWithClasses\\Circles\\Circles\\framework.cpp",
+              "RelativeToolTip": "Circles\\framework.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T09:22:56.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\F5067682\\Source\\CirclesWithClasses\\CirclesWithClasses\\CirclesWithClasses\\Circles\\Circles\\main.cpp",
+              "RelativeDocumentMoniker": "Circles\\main.cpp",
+              "ToolTip": "C:\\Users\\F5067682\\Source\\CirclesWithClasses\\CirclesWithClasses\\CirclesWithClasses\\Circles\\Circles\\main.cpp",
+              "RelativeToolTip": "Circles\\main.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-13T14:37:38.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cpp",
+              "DocumentMoniker": "C:\\Users\\F5067682\\Source\\CirclesWithClasses\\CirclesWithClasses\\CirclesWithClasses\\Circles\\Circles\\Circle.cpp",
+              "RelativeDocumentMoniker": "Circles\\Circle.cpp",
+              "ToolTip": "C:\\Users\\F5067682\\Source\\CirclesWithClasses\\CirclesWithClasses\\CirclesWithClasses\\Circles\\Circles\\Circle.cpp",
+              "RelativeToolTip": "Circles\\Circle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T09:22:50.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.h",
+              "DocumentMoniker": "C:\\Users\\F5067682\\Source\\CirclesWithClasses\\CirclesWithClasses\\CirclesWithClasses\\Circles\\Circles\\Circle.h",
+              "RelativeDocumentMoniker": "Circles\\Circle.h",
+              "ToolTip": "C:\\Users\\F5067682\\Source\\CirclesWithClasses\\CirclesWithClasses\\CirclesWithClasses\\Circles\\Circles\\Circle.h",
+              "RelativeToolTip": "Circles\\Circle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-27T09:18:04.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
