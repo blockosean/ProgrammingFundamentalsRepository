@@ -432,7 +432,7 @@ int main()
 	srand(time(0));
 	StartClock();
 	string mazeFile;
-	cout << "Type maze name" << endl;
+	cout << "Type maze name, if you want to make your own maze, type 'editor'" << endl;
 	cin >> mazeFile;
 	LoadMaze(mazeFile);
 	SetPlayerPos();
